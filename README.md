@@ -6,7 +6,7 @@ Each file corresponds to a specific concept or chapter, making it easier to unde
 
 ## How to Push Changes
 
-To push all my changes to the GitHub repository, use the following command:
+I push all my changes to the GitHub repository, using the following command:
 
 ```bash
 git add . && git commit -m "Node.js Basics" && git push
