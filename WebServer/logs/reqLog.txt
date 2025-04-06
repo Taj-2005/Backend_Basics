@@ -1,0 +1,11 @@
+20250407	00:51:20	f3a5f9ec-e4dc-4903-925b-fd3dec5d0fed	/new-page.h	GET
+20250407	00:51:20	c1203118-3a51-4714-bfcd-d3cdb25143f7	/css/styles.css	GET
+20250407	00:51:31	4d38a80b-d3d6-43a9-9e62-27199c09a135	/new-page.html	GET
+20250407	00:51:31	c2f0a16b-d576-4150-a664-72609f6b5cda	/css/styles.css	GET
+20250407	00:51:31	11f30ce2-f120-4ca9-a8e9-31c696db8f93	/image/image.png	GET
+20250407	00:51:41	24fc8b60-d424-413c-9f63-8df95b197d4e	/	GET
+20250407	00:51:41	65c9dbbf-b037-49df-b3b2-062c82449f31	/css/styles.css	GET
+20250407	00:51:49	d6f8fab2-cd39-48fe-b03e-9c2be6ddcd68	/data/data.json	GET
+20250407	00:52:20	62a5e8b9-dc3d-4859-81d8-c3c6e2a0f2cf	/data/data.js	GET
+20250407	00:52:20	97556b70-4a79-45bb-8dd4-fe8f2d272db6	/css/styles.css	GET
+20250407	00:53:16	b2a057ba-306f-4233-8aa7-7ef66c6bfcb4	/new-page.html	GET
