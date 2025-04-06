@@ -9,3 +9,6 @@
 20250407	00:52:20	62a5e8b9-dc3d-4859-81d8-c3c6e2a0f2cf	/data/data.js	GET
 20250407	00:52:20	97556b70-4a79-45bb-8dd4-fe8f2d272db6	/css/styles.css	GET
 20250407	00:53:16	b2a057ba-306f-4233-8aa7-7ef66c6bfcb4	/new-page.html	GET
+20250407	01:06:22	c6915e38-44a3-4b0b-b544-92512374f1b4	/new-page.html	GET
+20250407	01:06:23	ff5acba5-e6d0-43ca-b599-5325abd0ba7e	/css/styles.css	GET
+20250407	01:06:23	363775f0-e1b2-409d-a894-ef15e144f22a	/image/image.png	GET
