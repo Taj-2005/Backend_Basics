@@ -5,7 +5,7 @@ const fsPromises = require('fs').promises;
 
 const logEvents = require('./logItems.js');
 const EventEmitter = require('events');
-class Emitter extends EventEmitter { };
+class Emitter extends EventEmitter {};
 // initialize object 
 const myEmitter = new Emitter();
 myEmitter.on('log', (msg, fileName) => logEvents(msg, fileName));
