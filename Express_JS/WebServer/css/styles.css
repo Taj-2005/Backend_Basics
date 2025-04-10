@@ -1,0 +1,19 @@
+body{
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-color: dimgray;
+}
+.error{
+    color: red;
+}
+img{
+    width: 50%;
+    height: 50%;
+}
